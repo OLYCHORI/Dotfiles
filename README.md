@@ -1,4 +1,4 @@
 # Dotfiles
 Dotfiles
-![alt text](https://imgur.com/LuZMkOf)
+![](Dotfiles/ArchLabsRice1.png) 
 ![alt text](https://imgur.com/80TweX9)
